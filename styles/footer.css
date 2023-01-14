@@ -1,0 +1,30 @@
+footer{
+margin-top: 100px;
+}
+.footer{
+  height: 270px;
+ background-color: rgb(13, 10, 50);
+}
+.fo-sec{
+  height: 270px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  row-gap: 10px;
+}
+.fo-sec h3{
+  font-weight: 700;
+font-size: 24px;
+}
+.fo-sec p{
+  font-weight: 500;
+font-size: 12px;
+color: #D9DBE1;
+}
+.social{
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+}
