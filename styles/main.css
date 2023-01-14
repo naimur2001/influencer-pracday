@@ -207,12 +207,10 @@ padding-right: 40px;
 
 /* responsive */
 @media screen and (max-width:688px) {
-  .header-title{
-    padding: 0;
-  }
+
 .first-section{
   padding: 0 ;
-  margin-bottom: 1000px;
+  margin-bottom: 700px;
   flex-direction: column-reverse;
 
 }
@@ -228,14 +226,11 @@ padding-right: 40px;
  align-items: center;
     justify-content: center;
     position: absolute;
-  bottom: -50;
+  bottom: -90;
  
   }
   .first-sec-item2{
-    display: flex;
     
-    justify-content: center;
-    align-items: center;
   }
   .first-sec-item1 h2{
    
